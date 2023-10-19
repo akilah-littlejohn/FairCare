@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-home',
   standalone:true,
   template: ``,
-  styles: ['git add]
+  styles: [''g]
 })
 export class HomeComponent {
 
